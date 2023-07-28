@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+.Title{
+    color: #090F31;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 600;
+    padding-top:40px;
+    padding-left:48px;
+    padding-bottom: 50px;
+    
+}
+.OrangeTxt{
+    color: #F7542E
+}
+.Options{
+    font-family:"Noto Sans JP","sans-serif";    
+    color: #9E9E9E;
+    font-size: 14px;
+    font-weight: 500;
+    list-style-type: none; 
+
+}
+li{
+    padding-top:50px; 
+    padding-left:10px;
+}
+.BoldTxt{
+    font-weight:700;
+    color: #090F31;
+}
+.side{
+    min-height:100vh;
+    background-color: #FAFBFD;
+    padding-right: 48px;
+    overflow:auto
+    
+    
+}
